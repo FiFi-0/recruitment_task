@@ -1,0 +1,21 @@
+.hero {
+    display: flex;
+}
+
+.hero__title {
+    margin: 0 20px;
+}
+
+.hero__flex-item {
+    flex-basis: 100%;
+    margin: 20px;
+}
+
+.hero__image {
+    margin-bottom: 20px;
+}
+
+.hero__pharagraph {
+    text-align: justify;
+    margin: 0;
+}
