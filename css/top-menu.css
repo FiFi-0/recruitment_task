@@ -1,5 +1,5 @@
 .top-menu {
-    background-color: rgb(2, 58, 92);
+    background-color: var(--main-color);
     margin: 0;
 }
 
