@@ -1,18 +1,19 @@
 .hero {
     display: flex;
+    gap: 40px;
 }
 
 .hero__title {
-    margin: 0 20px;
+    margin-bottom: 20px;
 }
 
 .hero__flex-item {
     flex-basis: 100%;
-    margin: 20px;
 }
 
 .hero__image {
     margin-bottom: 20px;
+    width: 100%;
 }
 
 .hero__pharagraph {
