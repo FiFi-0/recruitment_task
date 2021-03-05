@@ -1,0 +1,30 @@
+.top-menu {
+    background-color: rgb(2, 58, 92);
+    margin: 0;
+}
+
+.top-menu__list {
+    margin: 0;
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    padding: 35px 0 25px;
+}
+
+.top-menu__list-item {
+    cursor: pointer;
+    margin-left: 49px;
+    color: white;
+    font-size: 22px;
+    font-weight: 300;
+}
+
+.top-menu__logo-box {
+    background-color: white;
+    position: absolute;
+    box-shadow: 1px 1px 5px 0.01px grey;
+}
+
+.top-menu__logo {
+    padding: 20px 35px;
+}
