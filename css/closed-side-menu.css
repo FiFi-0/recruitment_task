@@ -1,0 +1,21 @@
+.closed-side-menu {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    height: calc(100% - (85px + 85px));
+    top: 85px;
+    left: 0;
+    box-shadow: 0px 0px 7px grey;
+}
+
+.closed-side-menu__arrow  {
+    width: 19px;
+    height: 16px;
+}
+
+.closed-side-menu__text {
+    padding: 0 10px;
+    margin-bottom: 400px;
+}
