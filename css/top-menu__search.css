@@ -12,6 +12,7 @@
     width: 32px;
     border: none;
     background-color: transparent;
+    cursor: pointer;
 }
 
 .top-menu__search-input {
