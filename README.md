@@ -1,6 +1,5 @@
 # recruitment_task
 # TO DO:
-# make flex absolute-logo on top for much better responsive top bar
 # add interaction to side menu bar
 # add loupe feature
 # make good looking version for 1366px
