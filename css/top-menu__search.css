@@ -1,0 +1,21 @@
+.top-menu__search {
+    position: absolute;
+    right: 25px;
+    top: 35px;
+    display: flex;
+}
+
+.top-menu__search-button {
+    background-image: url("/images/top-menu_loupe.png");
+    background-repeat: no-repeat;
+    height: 31px;
+    width: 32px;
+    border: none;
+    background-color: transparent;
+}
+
+.top-menu__search-input {
+    margin-right: 20px;
+    height: 30px;
+    visibility: hidden;
+}

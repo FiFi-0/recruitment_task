@@ -1,6 +1,7 @@
 .top-menu {
     background-color: var(--main-color);
     height: 85px;
+    position: relative;
 }
 
 .top-menu__list {
