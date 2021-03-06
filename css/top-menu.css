@@ -10,12 +10,18 @@
     padding: 35px 0 25px;
 }
 
+
 .top-menu__list-item {
-    cursor: pointer;
-    color: white;
-    font-size: 22px;
-    font-weight: 300;
-    margin-left: auto;
+  cursor: pointer;
+  color: white;
+  font-size: 22px;
+  font-weight: 300;
+  margin-left: auto;
+  height: 25px;
+}
+
+.top-menu__list-item:hover {
+  padding-top: 3px;
 }
 
 @media (max-width: 1441px) {
